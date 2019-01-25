@@ -1,0 +1,1 @@
+{"jobID":"084a008b-3874-07c1-1245-fe5bec6d6e2d","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":"Taylor Nycum \u003ctaylor.nycum@optiv.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"1.4.2 does not work for us","locked_user":"Taylor Nycum \u003ctaylor.nycum@optiv.com\u003e"},"remove":{}}}},"result":null}
