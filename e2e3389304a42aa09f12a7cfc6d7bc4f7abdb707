@@ -1,0 +1,1 @@
+{"jobID":"ad6c9694-6068-2b4e-c795-0a97528e565b","spec":{"type":"policy","cause":{"Message":"","User":"Taylor Nycum \u003ctaylor.nycum@optiv.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
